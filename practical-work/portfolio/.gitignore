@@ -1,0 +1,11 @@
+# IDE
+.vscode/
+.idea/
+
+# Secrets / configs
+config.ini
+secrets.json
+
+# OS
+.DS_Store
+Thumbs.db
